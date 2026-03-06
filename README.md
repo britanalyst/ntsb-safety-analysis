@@ -16,3 +16,8 @@ Exploratory analysis of US civil aviation accident and fatality trends using the
 ## Data source
 NTSB Aviation Accident Database
 https://www.ntsb.gov/safety/data/Pages/Data_Stats.aspx
+
+## Helicopter Analysis
+Exploration of helicopter accident trends using NTSB data as context 
+for understanding risk in emerging eVTOL operations. Covers accident 
+types, phases of flight, and year over year trends from 1982 to 2024.
