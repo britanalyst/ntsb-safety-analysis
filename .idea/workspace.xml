@@ -22,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3AXuC1XnPAqeVN54yG06RC3AiQS" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,6 +37,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.fatalities.executor": "Run",
+    "Python.helicopter_analysis.executor": "Run",
     "Python.load_data.executor": "Run",
     "Python.phase_of_flight.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
