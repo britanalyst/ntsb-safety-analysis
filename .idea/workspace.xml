@@ -36,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.accident_map.executor": "Run",
     "Python.fatalities.executor": "Run",
     "Python.helicopter_analysis.executor": "Run",
     "Python.load_data.executor": "Run",
